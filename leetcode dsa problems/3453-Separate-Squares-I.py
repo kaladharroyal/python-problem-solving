@@ -31,4 +31,4 @@ class Solution:
                 high = mid
 
         return (low + high) / 2.0
-Solution.separateSquares([])
+Solution.separateSquares()
